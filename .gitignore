@@ -15,4 +15,9 @@
 /log/*.log
 /tmp
 
+# RubyMine files
 .idea/*
+
+# Sensitive files
+config/secrets.yml
+config/database.yml
